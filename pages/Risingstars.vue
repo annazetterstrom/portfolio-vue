@@ -32,7 +32,7 @@
               tror att detta program kan ge mig rätt verktyg för att starta
               min resa på B3. Jag gillar att man dessutom får en mentor som kan hjälp till
               och stötta på vägen. Utöver det verkar kunskapsutbytet
-              mellan deltagarna i programmet kommer vara otroligt lärorikt och
+              mellan deltagarna i programmet vara otroligt lärorikt och
               jag ser fram emot att få möjlighet att skapa ett större kontaktnät
               inom företaget.
             </p>
