@@ -30,7 +30,7 @@
             <p class="black--text">
               Som ny inom konsultbranschen har jag mycket att lära mig och jag
               tror att detta program kan ge mig rätt verktyg för att starta
-              min resa på B3. Jag gillar att man dessutom får en mentor som kan hjälp
+              min resa på B3. Jag gillar att man dessutom får en mentor som kan hjälp till
               och stötta på vägen. Utöver det verkar kunskapsutbytet
               mellan deltagarna i programmet kommer vara otroligt lärorikt och
               jag ser fram emot att få möjlighet att skapa ett större kontaktnät
